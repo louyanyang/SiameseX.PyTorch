@@ -5,7 +5,7 @@ A simplified PyTorch implementation of Siamese networks for tracking: **SiamFC**
 
 ## Dependencies
 - python2.7
-- pytorch == 0.4.0
+- pytorch == 0.4.1
 - opencv
 - mmcv
 
